@@ -2,7 +2,7 @@
 
 **Aspiring iOS Developer | Swift Enthusiast | Full-Stack Developer**
 
-Welcome to my GitHub! I'm a first-year college student at NIAT (Nagpur Institute of Advanced Technologies) passionate about building elegant, user-friendly mobile applications and exploring innovative solutions to real-world problems.
+Welcome to my GitHub! I'm a first-year college student at NIAT (NxtWave Institute of Advanced Technologies) passionate about building elegant, user-friendly mobile applications and exploring innovative solutions to real-world problems.
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a first-year college student at NIAT (Nagpur Institute
 - 🏆 **2026 Apple Swift Student Challenge** Participant
 - 💡 **Interests**: Mobile App Development, Health-Tech, FinTech, EdTech
 - 🎓 **Learning**: Building LLM applications, advanced iOS architecture, cloud deployment
-- 📍 **Location**: Nagpur, Maharashtra, India
+- 📍 **Location**: Kolhapur, Maharashtra, India
 
 ---
 
